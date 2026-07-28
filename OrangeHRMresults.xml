@@ -1,0 +1,290 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206401639,134,/generate_204-1,204,No Content,,,true,,146,319,0,0,http://connectivitycheck.gstatic.com/generate_204,0,0,79
+0,0,www.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206405779,1355,/web/index.php/auth/login-2,200,OK,,text,true,,2268,727,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1354,0,932
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+1785206407238,1854,/web/dist/css/app.css-3,200,OK,,text,true,,168286,672,0,0,https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1783336755185,1205,0,606
+1785206407262,2110,/web/dist/css/chunk-vendors.css-4,200,OK,,text,true,,250938,682,0,0,https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1783336755185,1177,0,569
+1785206407269,3015,/web/dist/js/app.js-6,200,OK,,text,true,,1544772,656,0,0,https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1783336755185,1188,0,575
+1785206407263,3159,/web/dist/js/chunk-vendors.js-5,200,OK,,text,true,,1711494,666,0,0,https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1783336755185,1204,0,587
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206410761,956,/web/dist/favicon.ico-8,200,OK,,bin,true,,1544,718,0,0,https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1783336755185,956,0,653
+1785206410761,1877,/web/index.php/core/i18n/messages-7,200,OK,,text,true,,102769,694,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,1356,0,655
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206413137,1043,/web/dist/img/blob.svg-14,200,OK,,text,true,,1258,715,0,0,https://opensource-demo.orangehrmlive.com/web/dist/img/blob.svg,1042,0,646
+1785206412835,1351,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2-9,200,OK,,text,true,,26749,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2,1345,0,647
+1785206412842,1351,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2-10,200,OK,,text,true,,26853,749,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2,1348,0,669
+1785206412860,1327,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2-11,200,OK,,text,true,,26789,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2,1326,0,649
+1785206413137,1461,/web/images/ohrm_branding.png-13,200,OK,,bin,true,,31379,726,0,0,https://opensource-demo.orangehrmlive.com/web/images/ohrm_branding.png?v=1783336755185,1453,0,633
+1785206412868,2039,/web/dist/fonts/bootstrap-icons.woff2-12,200,OK,,text,true,,122267,726,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/bootstrap-icons.woff2,1310,0,605
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206414209,2341,/web/images/ohrm_logo.png-15,200,OK,,bin,true,,325411,706,0,0,https://opensource-demo.orangehrmlive.com/web/images/ohrm_logo.png,1297,0,687
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206430879,1419,/web/index.php/auth/validate-16,302,Found,,text,true,,1647,1127,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1418,0,705
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206432342,1185,/web/index.php/dashboard/index-17,200,OK,,text,true,,2799,862,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1184,0,681
+0,0,www.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+1785206433714,1044,/web/dist/favicon.ico-19,200,OK,,bin,true,,1544,723,0,0,https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1783336755185,1043,0,750
+1785206433698,1177,/web/index.php/core/i18n/messages-18,304,Not Modified,,,true,,856,788,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,766
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206435062,996,/web/index.php/api/v2/dashboard/employees/action-summary-21,200,OK,,text,true,,1088,770,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,995,0,553
+1785206435016,1136,/web/images/orange.png-20,200,OK,,bin,true,,17527,724,0,0,https://opensource-demo.orangehrmlive.com/web/images/orange.png?v=1783336755185,1135,0,574
+1785206435076,1136,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2-22,200,OK,,text,true,,27769,748,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2,1134,0,551
+1785206435105,1123,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2-24,200,OK,,text,true,,26561,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-300.woff2,1123,0,565
+1785206435088,1154,/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2-23,200,OK,,text,true,,27281,745,0,0,https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2,1146,0,580
+1785206435239,1138,/web/index.php/api/v2/dashboard/employees/time-at-work-25,200,OK,,text,true,,2104,830,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2026-07-28&currentTime=08%3A10,1137,0,648
+1785206436077,975,/web/index.php/api/v2/dashboard/shortcuts-26,200,OK,,text,true,,1112,755,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,974,0,561
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206436170,969,/web/index.php/api/v2/buzz/feed-27,200,OK,,text,true,,3619,744,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,968,0,548
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206436239,974,/web/index.php/api/v2/dashboard/employees/leaves-28,200,OK,,text,true,,995,778,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2026-07-28,973,0,542
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206436253,1010,/web/index.php/api/v2/dashboard/employees/subunit-29,200,OK,,text,true,,1255,763,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,1009,0,545
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206436269,1056,/web/index.php/api/v2/dashboard/employees/locations-30,200,OK,,text,true,,1203,765,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,1056,0,578
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206436401,1002,/web/index.php/events/push-31,200,OK,,text,true,,981,773,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,1001,0,585
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206437168,814,/web/images/orangehrm-logo.png-32,200,OK,,bin,true,,3646,732,0,0,https://opensource-demo.orangehrmlive.com/web/images/orangehrm-logo.png?v=1783336755185,813,0,540
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206437255,1125,/web/index.php/pim/viewPhoto/empNumber/7-33,200,OK,,bin,true,,17283,726,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,1123,0,549
+1785206437343,1293,/web/index.php/pim/viewPhoto/empNumber/22-35,200,OK,,bin,true,,33930,727,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,1276,0,572
+1785206437273,1371,/web/images/dashboard_empty_widget_watermark.png-34,200,OK,,bin,true,,42881,734,0,0,https://opensource-demo.orangehrmlive.com/web/images/dashboard_empty_widget_watermark.png,1082,0,536
+1785206437373,1277,/web/index.php/pim/viewPhoto/empNumber/11-36,200,OK,,bin,true,,22842,727,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/11,1275,0,564
+1785206437431,1793,/web/index.php/buzz/photo/9-37,200,OK,,bin,true,,124613,713,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/9,1238,0,554
+1785206438021,1277,/web/index.php/pim/viewPhoto/empNumber/9-38,200,OK,,bin,true,,19558,726,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/9,1277,0,570
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206447524,1073,/web/index.php/admin/viewAdminModule-39,302,Found,,text,true,,1584,847,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule,1072,0,650
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206448636,1186,/web/index.php/admin/viewSystemUsers-40,200,OK,,text,true,,3347,847,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers,1185,0,664
+0,0,www.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206449956,979,/web/dist/favicon.ico-42,200,OK,,bin,true,,1544,729,0,0,https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1783336755185,978,0,680
+1785206449941,1113,/web/index.php/core/i18n/messages-41,304,Not Modified,,,true,,856,794,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,695
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206451149,1123,/web/index.php/pim/viewPhoto/empNumber/7-43,304,Not Modified,,,true,,856,795,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,711
+1785206451182,1131,/web/index.php/api/v2/admin/users-44,200,OK,,text,true,,2434,806,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&sortField=u.userName&sortOrder=ASC,1130,0,684
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206459667,1412,/web/index.php/admin/saveSystemUser-45,200,OK,,text,true,,3332,852,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser,1411,0,898
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,beacons.gcp.gvt2.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206461373,1338,/web/dist/favicon.ico-47,200,OK,,bin,true,,1544,728,0,0,https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1783336755185,1337,0,930
+1785206461366,1382,/web/index.php/core/i18n/messages-46,304,Not Modified,,,true,,856,793,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,937
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,beacons.gvt2.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206462974,1201,/web/index.php/pim/viewPhoto/empNumber/7-48,304,Not Modified,,,true,,856,794,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,779
+0,0,beacons2.gvt2.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+1785206478212,1294,/web/index.php/api/v2/pim/employees-49,200,OK,,text,true,,1083,776,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees?nameOrId=James+Butler,1293,0,782
+0,0,beacons3.gvt2.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206486697,1615,/web/index.php/api/v2/admin/validation/user-name-50,200,OK,,text,true,,972,720,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/validation/user-name?userName=James,1614,0,1005
+0,0,beacons4.gvt2.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206491459,1254,/web/index.php/api/v2/auth/public/validation/password-51,200,OK,,text,true,,1123,830,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/auth/public/validation/password,1253,0,747
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,beacons5.gvt2.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206493281,1174,/web/index.php/api/v2/auth/public/validation/password-52,200,OK,,text,true,,1030,837,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/auth/public/validation/password,1173,0,668
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206495067,1355,/web/index.php/api/v2/auth/public/validation/password-53,200,OK,,text,true,,985,841,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/auth/public/validation/password,1354,0,926
+0,0,beacons5.gvt3.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206503839,1163,/web/index.php/api/v2/auth/public/validation/password-54,200,OK,,text,true,,985,841,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/auth/public/validation/password,1162,0,653
+1785206503847,1155,/web/index.php/api/v2/admin/validation/user-name-55,200,OK,,text,true,,972,720,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/validation/user-name?userName=James,1154,0,645
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206505038,1272,/web/index.php/api/v2/admin/users-56,200,OK,,text,true,,1200,868,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users,1271,0,580
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,clients2.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206508887,1136,/web/index.php/admin/viewSystemUsers-57,200,OK,,text,true,,3347,832,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers,1131,0,625
+0,0,www.google.com:443,,"An established connection was aborted by the software in your host machine
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1775,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206510195,1081,/web/dist/favicon.ico-59,200,OK,,bin,true,,1544,729,0,0,https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1783336755185,1080,0,747
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206510188,1208,/web/index.php/core/i18n/messages-58,304,Not Modified,,,true,,856,794,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,754
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,opensource-demo.orangehrmlive.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+0,0,content-autofill.googleapis.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
+1785206511561,1121,/web/index.php/api/v2/admin/users-61,200,OK,,text,true,,2676,806,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&sortField=u.userName&sortOrder=ASC,1120,0,591
+1785206511512,1176,/web/index.php/pim/viewPhoto/empNumber/7-60,304,Not Modified,,,true,,856,795,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,641
+0,0,www.google.com:443,,"(certificate_unknown) Received fatal alert: certificate_unknown
+**ensure browser is set to accept the JMeter proxy certificate**",,,false,,1394,0,0,0,null,0,0,0
