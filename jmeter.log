@@ -1,0 +1,30 @@
+2026-07-29 16:42:04,071 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-07-29 16:42:04,103 INFO o.a.j.JMeter: Loading user properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\user.properties
+2026-07-29 16:42:04,103 INFO o.a.j.JMeter: Loading system properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\system.properties
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Version 5.6.3
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: java.version=21.0.11
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: os.name=Windows 11
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: os.arch=amd64
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: os.version=10.0
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: java.awt.headless=null
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Max memory     =2147483648
+2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Available Processors =12
+2026-07-29 16:42:04,118 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-07-29 16:42:04,118 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-07-29 16:42:04,118 INFO o.a.j.JMeter: JMeterHome=C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3
+2026-07-29 16:42:04,118 INFO o.a.j.JMeter: user.dir  =C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project
+2026-07-29 16:42:04,118 INFO o.a.j.JMeter: PWD       =C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project
+2026-07-29 16:42:04,118 INFO o.a.j.JMeter: IP: 10.33.252.163 Name: LAPTOP-IBUOS8EK FullName: LAPTOP-IBUOS8EK
+2026-07-29 16:42:04,143 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-07-29 16:42:04,477 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-07-29 16:42:05,828 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-casutg-3.1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-29 16:42:05,843 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.12.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-29 16:42:05,964 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-dummy-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-29 16:42:06,040 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-casutg-3.1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-29 16:42:06,040 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.12.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-29 16:42:06,040 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-dummy-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-29 16:42:06,212 INFO o.j.r.JARSourceHTTP: Found cached repo
+2026-07-29 16:42:06,508 INFO o.j.r.PluginManager: Plugins Status: [jpgc-casutg=3.1.1, jpgc-dummy=0.4, jpgc-plugins-manager=1.12, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
