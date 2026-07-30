@@ -1,0 +1,58 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785439186550,1156,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-2,,true,,2274,732,3,7,null,0,478,730
+1785439186555,960,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-3,,true,,2273,732,3,7,null,0,669,548
+1785439187008,1156,Launch Orange HRM site,200,OK,Open Model Thread Group 2-2,text,true,,2274,732,3,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1155,0,730
+1785439187204,960,Launch Orange HRM site,200,OK,Open Model Thread Group 2-3,text,true,,2273,732,3,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,960,0,548
+1785439185986,1417,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-1,,true,,2289,732,4,7,null,0,781,991
+1785439186747,1417,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-1,text,true,,2289,732,4,7,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1416,0,991
+1785439186950,1086,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-4,,true,,2285,732,4,8,null,0,910,658
+1785439187859,1086,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-4,text,true,,2285,732,4,8,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1085,0,658
+1785439185986,1059,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-2,,true,,2292,732,5,9,null,0,3124,635
+1785439189108,1059,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-2,text,true,,2292,732,5,9,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1059,0,635
+1785439189725,1058,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-5,,true,,2284,732,5,10,null,0,226,613
+1785439189950,1058,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-5,text,true,,2284,732,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1057,0,613
+1785439186199,955,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-1,,true,,2275,732,5,10,null,0,4543,542
+1785439190741,955,Launch Orange HRM site,200,OK,Open Model Thread Group 2-1,text,true,,2275,732,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,955,0,542
+1785439186012,919,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-3,,true,,2283,732,5,10,null,0,4794,510
+1785439190804,919,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-3,text,true,,2283,732,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,919,0,510
+1785439190259,1087,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-5,,true,,2271,732,5,10,null,0,687,643
+1785439190945,1087,Launch Orange HRM site,200,OK,Open Model Thread Group 2-5,text,true,,2271,732,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1086,0,643
+1785439188192,1015,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-4,,true,,2283,732,5,10,null,0,3524,593
+1785439191715,1015,Launch Orange HRM site,200,OK,Open Model Thread Group 2-4,text,true,,2283,732,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1015,0,593
+1785439190170,49539,Login,200,,Open Model  Thread Group 1-2,,true,,4461,2127,5,10,null,0,0,0
+1785439238482,1227,Enter Login Data and login,200,OK,Open Model  Thread Group 1-2,text,true,,4461,2127,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,714,0,0
+1785439188186,45995,Login,200,,Open Model Thread Group 2-3,,true,,4461,2102,5,10,null,0,0,0
+1785439238482,714,Enter Login Data and login-0,302,Found,Open Model  Thread Group 1-2,text,true,,1652,1160,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,714,0,0
+1785439232943,1238,Enter Login Data and login,200,OK,Open Model Thread Group 2-3,text,true,,4461,2102,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,740,0,0
+1785439239197,512,Enter Login Data and login-1,200,OK,Open Model  Thread Group 1-2,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,511,0,0
+1785439232943,740,Enter Login Data and login-0,302,Found,Open Model Thread Group 2-3,text,true,,1652,1135,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,740,0,0
+1785439233685,496,Enter Login Data and login-1,200,OK,Open Model Thread Group 2-3,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,495,0,0
+1785439188947,49023,Login,200,,Open Model  Thread Group 1-4,,true,,4461,2117,5,10,null,0,0,0
+1785439236766,1204,Enter Login Data and login,200,OK,Open Model  Thread Group 1-4,text,true,,4461,2117,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,714,0,0
+1785439236766,714,Enter Login Data and login-0,302,Found,Open Model  Thread Group 1-4,text,true,,1652,1150,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,714,0,0
+1785439237482,488,Enter Login Data and login-1,200,OK,Open Model  Thread Group 1-4,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,488,0,0
+1785439188186,38521,Login,200,,Open Model Thread Group 2-2,,true,,4461,2107,5,10,null,0,0,0
+1785439225518,1189,Enter Login Data and login,200,OK,Open Model Thread Group 2-2,text,true,,4461,2107,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,676,0,0
+1785439225518,676,Enter Login Data and login-0,302,Found,Open Model Thread Group 2-2,text,true,,1652,1140,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,676,0,0
+1785439226196,511,Enter Login Data and login-1,200,OK,Open Model Thread Group 2-2,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,510,0,0
+1785439191010,0,Login,,,Open Model  Thread Group 1-5,,false,Response was null,0,0,5,10,null,0,0,0
+1785439188186,44253,Login,200,,Open Model  Thread Group 1-1,,true,,4461,2124,5,10,null,0,0,0
+1785439231196,1243,Enter Login Data and login,200,OK,Open Model  Thread Group 1-1,text,true,,4461,2124,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,733,0,0
+1785439231196,734,Enter Login Data and login-0,302,Found,Open Model  Thread Group 1-1,text,true,,1652,1157,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,733,0,0
+1785439231931,508,Enter Login Data and login-1,200,OK,Open Model  Thread Group 1-1,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,508,0,0
+1785439191697,49447,Login,200,,Open Model Thread Group 2-1,,true,,4461,2107,5,10,null,0,0,0
+1785439239812,1332,Enter Login Data and login,200,OK,Open Model Thread Group 2-1,text,true,,4461,2107,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,716,0,0
+1785439239812,716,Enter Login Data and login-0,302,Found,Open Model Thread Group 2-1,text,true,,1652,1140,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,716,0,0
+1785439240529,615,Enter Login Data and login-1,200,OK,Open Model Thread Group 2-1,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,614,0,0
+1785439192034,55149,Login,200,,Open Model Thread Group 2-5,,true,,4461,2103,5,10,null,0,0,0
+1785439245782,1401,Enter Login Data and login,200,OK,Open Model Thread Group 2-5,text,true,,4461,2103,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,788,0,0
+1785439245782,788,Enter Login Data and login-0,302,Found,Open Model Thread Group 2-5,text,true,,1652,1136,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,788,0,0
+1785439246570,613,Enter Login Data and login-1,200,OK,Open Model Thread Group 2-5,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,613,0,0
+1785439191725,50954,Login,200,,Open Model  Thread Group 1-3,,true,,4461,2118,5,10,null,0,0,0
+1785439241394,1285,Enter Login Data and login,200,OK,Open Model  Thread Group 1-3,text,true,,4461,2118,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,774,0,0
+1785439241394,774,Enter Login Data and login-0,302,Found,Open Model  Thread Group 1-3,text,true,,1652,1151,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,774,0,0
+1785439242168,511,Enter Login Data and login-1,200,OK,Open Model  Thread Group 1-3,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,511,0,0
+1785439192731,52573,Login,200,,Open Model Thread Group 2-4,,true,,4461,2118,5,10,null,0,0,0
+1785439244105,1199,Enter Login Data and login,200,OK,Open Model Thread Group 2-4,text,true,,4461,2118,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,725,0,0
+1785439244105,725,Enter Login Data and login-0,302,Found,Open Model Thread Group 2-4,text,true,,1652,1151,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,725,0,0
+1785439244830,474,Enter Login Data and login-1,200,OK,Open Model Thread Group 2-4,text,true,,2809,967,5,10,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,474,0,0

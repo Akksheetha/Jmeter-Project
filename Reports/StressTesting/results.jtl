@@ -1,0 +1,67 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1785439517359,1708,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-3,,true,,2279,732,6,10,null,0,162,1214
+1785439517505,1708,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-3,text,true,,2279,732,6,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1707,0,1214
+1785439516798,1089,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-1,,true,,2282,732,4,10,null,0,1342,595
+1785439518124,1089,Launch Orange HRM site,200,OK,Open Model Thread Group 2-1,text,true,,2282,732,4,10,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1088,0,595
+1785439516834,1098,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-2,,true,,2289,732,10,18,null,0,2845,618
+1785439519677,1098,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-2,text,true,,2289,732,10,18,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1097,0,618
+1785439518541,1043,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-6,,true,,2275,732,10,20,null,0,1530,580
+1785439520070,1043,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-6,text,true,,2275,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1043,0,580
+1785439518172,1011,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-3,,true,,2276,732,10,20,null,0,2284,574
+1785439520452,1011,Launch Orange HRM site,200,OK,Open Model Thread Group 2-3,text,true,,2276,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1010,0,574
+1785439519496,1006,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-6,,true,,2291,732,10,20,null,0,1309,543
+1785439520804,1006,Launch Orange HRM site,200,OK,Open Model Thread Group 2-6,text,true,,2291,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1006,0,543
+1785439519332,1025,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-5,,true,,2279,732,10,20,null,0,1457,545
+1785439520788,1025,Launch Orange HRM site,200,OK,Open Model Thread Group 2-5,text,true,,2279,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1025,0,545
+1785439516775,1016,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-1,,true,,2282,732,10,20,null,0,4508,554
+1785439521282,1016,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-1,text,true,,2282,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1016,0,554
+1785439520836,987,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-10,,true,,2274,732,10,20,null,0,773,561
+1785439521608,987,Launch Orange HRM site,200,OK,Open Model Thread Group 2-10,text,true,,2274,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,986,0,561
+1785439520408,990,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-8,,true,,2270,732,10,20,null,0,1301,571
+1785439521708,990,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-8,text,true,,2270,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,990,0,571
+1785439519506,985,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-7,,true,,2286,732,10,20,null,0,2297,559
+1785439521802,985,Launch Orange HRM site,200,OK,Open Model Thread Group 2-7,text,true,,2286,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,985,0,559
+1785439519738,1037,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-7,,true,,2286,732,10,20,null,0,2217,545
+1785439521954,1037,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-7,text,true,,2286,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1036,0,545
+1785439517150,976,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-2,,true,,2279,732,10,20,null,0,4909,540
+1785439522058,976,Launch Orange HRM site,200,OK,Open Model Thread Group 2-2,text,true,,2279,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,976,0,540
+1785439520801,995,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-9,,true,,2274,732,10,20,null,0,1319,537
+1785439522118,995,Launch Orange HRM site,200,OK,Open Model Thread Group 2-9,text,true,,2274,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,995,0,537
+1785439519611,1008,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-8,,true,,2278,732,10,20,null,0,3470,589
+1785439523080,1008,Launch Orange HRM site,200,OK,Open Model Thread Group 2-8,text,true,,2278,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1008,0,589
+1785439520430,1110,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-9,,true,,2288,732,10,20,null,0,3467,589
+1785439523896,1110,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-9,text,true,,2288,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1110,0,589
+1785439518512,1123,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-5,,true,,2279,732,10,20,null,0,5636,691
+1785439524147,1123,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-5,text,true,,2279,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1123,0,691
+1785439520457,1001,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-10,,true,,2292,732,10,20,null,0,4226,546
+1785439524682,1001,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-10,text,true,,2292,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1000,0,546
+1785439517768,952,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model  Thread Group 1-4,,true,,2278,732,10,20,null,0,7292,529
+1785439525059,952,Launch Orange HRM site,200,OK,Open Model  Thread Group 1-4,text,true,,2278,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,952,0,529
+1785439518797,1037,Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Open Model Thread Group 2-4,,true,,2277,732,10,20,null,0,6595,529
+1785439525391,1037,Launch Orange HRM site,200,OK,Open Model Thread Group 2-4,text,true,,2277,732,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1037,0,529
+1785439522699,0,Login,,,Open Model  Thread Group 1-8,,false,Response was null,0,0,10,20,null,0,0,0
+1785439521468,0,Login,,,Open Model Thread Group 2-3,,false,Response was null,0,0,10,20,null,0,0,0
+1785439525684,0,Login,,,Open Model  Thread Group 1-10,,false,Response was null,0,0,10,20,null,0,0,0
+1785439521812,0,Login,,,Open Model Thread Group 2-6,,false,Response was null,0,0,10,20,null,0,0,0
+1785439522992,0,Login,,,Open Model  Thread Group 1-7,,false,Response was null,0,0,10,20,null,0,0,0
+1785439525271,0,Login,,,Open Model  Thread Group 1-5,,false,Response was null,0,0,10,20,null,0,0,0
+1785439521814,0,Login,,,Open Model Thread Group 2-5,,false,Response was null,0,0,10,20,null,0,0,0
+1785439525007,0,Login,,,Open Model  Thread Group 1-9,,false,Response was null,0,0,10,20,null,0,0,0
+1785439522788,0,Login,,,Open Model Thread Group 2-7,,false,Response was null,0,0,10,20,null,0,0,0
+1785439519230,55326,Login,200,,Open Model  Thread Group 1-3,,true,,4461,2114,10,20,null,0,0,0
+1785439573333,1223,Enter Login Data and login,200,OK,Open Model  Thread Group 1-3,text,true,,4461,2114,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,668,0,0
+1785439573333,668,Enter Login Data and login-0,302,Found,Open Model  Thread Group 1-3,text,true,,1652,1147,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,668,0,0
+1785439574002,554,Enter Login Data and login-1,200,OK,Open Model  Thread Group 1-3,text,true,,2809,967,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,554,0,0
+1785439519231,54710,Login,200,,Open Model Thread Group 2-1,,true,,4461,2118,10,20,null,0,0,0
+1785439571176,2765,Enter Login Data and login,200,OK,Open Model Thread Group 2-1,text,true,,4461,2118,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,820,0,0
+1785439571176,820,Enter Login Data and login-0,302,Found,Open Model Thread Group 2-1,text,true,,1652,1151,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,820,0,0
+1785439521115,0,Login,,,Open Model  Thread Group 1-6,,false,Response was null,0,0,10,20,null,0,0,0
+1785439571998,1943,Enter Login Data and login-1,200,OK,Open Model Thread Group 2-1,text,true,,2809,967,10,20,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,1943,0,0
+1785439524089,0,Login,,,Open Model Thread Group 2-8,,false,Response was null,0,0,10,20,null,0,0,0
+1785439526012,0,Login,,,Open Model  Thread Group 1-4,,false,Response was null,0,0,10,20,null,0,0,0
+1785439522299,0,Login,,,Open Model  Thread Group 1-1,,false,Response was null,0,0,10,20,null,0,0,0
+1785439522596,0,Login,,,Open Model Thread Group 2-10,,false,Response was null,0,0,10,20,null,0,0,0
+1785439523035,0,Login,,,Open Model Thread Group 2-2,,false,Response was null,0,0,5,8,null,0,0,0
+1785439520777,0,Login,,,Open Model  Thread Group 1-2,,false,Response was null,0,0,3,8,null,0,0,0
+1785439526429,0,Login,,,Open Model Thread Group 2-4,,false,Response was null,0,0,3,4,null,0,0,0
+1785439523115,0,Login,,,Open Model Thread Group 2-9,,false,Response was null,0,0,2,3,null,0,0,0

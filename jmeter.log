@@ -1,30 +1,259 @@
-2026-07-29 16:42:04,071 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
-2026-07-29 16:42:04,103 INFO o.a.j.JMeter: Loading user properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\user.properties
-2026-07-29 16:42:04,103 INFO o.a.j.JMeter: Loading system properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\system.properties
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Version 5.6.3
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: java.version=21.0.11
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: os.name=Windows 11
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: os.arch=amd64
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: os.version=10.0
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: file.encoding=UTF-8
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: java.awt.headless=null
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Max memory     =2147483648
-2026-07-29 16:42:04,105 INFO o.a.j.JMeter: Available Processors =12
-2026-07-29 16:42:04,118 INFO o.a.j.JMeter: Default Locale=English (EN)
-2026-07-29 16:42:04,118 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
-2026-07-29 16:42:04,118 INFO o.a.j.JMeter: JMeterHome=C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3
-2026-07-29 16:42:04,118 INFO o.a.j.JMeter: user.dir  =C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project
-2026-07-29 16:42:04,118 INFO o.a.j.JMeter: PWD       =C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project
-2026-07-29 16:42:04,118 INFO o.a.j.JMeter: IP: 10.33.252.163 Name: LAPTOP-IBUOS8EK FullName: LAPTOP-IBUOS8EK
-2026-07-29 16:42:04,143 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2026-07-29 16:42:04,477 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
-2026-07-29 16:42:05,828 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-casutg-3.1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2026-07-29 16:42:05,843 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.12.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2026-07-29 16:42:05,964 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-dummy-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2026-07-29 16:42:06,040 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-casutg-3.1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2026-07-29 16:42:06,040 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.12.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2026-07-29 16:42:06,040 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-dummy-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
-2026-07-29 16:42:06,212 INFO o.j.r.JARSourceHTTP: Found cached repo
-2026-07-29 16:42:06,508 INFO o.j.r.PluginManager: Plugins Status: [jpgc-casutg=3.1.1, jpgc-dummy=0.4, jpgc-plugins-manager=1.12, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2026-07-31 01:06:01,796 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: Loading user properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\user.properties
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: Loading system properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\system.properties
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: Version 5.6.3
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: java.version=21.0.11
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: os.name=Windows 11
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: os.arch=amd64
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: os.version=10.0
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: java.awt.headless=true
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: Max memory     =2147483648
+2026-07-31 01:06:01,828 INFO o.a.j.JMeter: Available Processors =12
+2026-07-31 01:06:01,844 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-07-31 01:06:01,844 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-07-31 01:06:01,844 INFO o.a.j.JMeter: JMeterHome=C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3
+2026-07-31 01:06:01,844 INFO o.a.j.JMeter: user.dir  =C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project
+2026-07-31 01:06:01,844 INFO o.a.j.JMeter: PWD       =C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project
+2026-07-31 01:06:01,844 INFO o.a.j.JMeter: IP: 10.33.252.163 Name: LAPTOP-IBUOS8EK FullName: LAPTOP-IBUOS8EK
+2026-07-31 01:06:01,875 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting'
+2026-07-31 01:06:01,875 INFO o.a.j.s.FileServer: Default base='C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project'
+2026-07-31 01:06:01,895 INFO o.a.j.s.FileServer: Set new base='C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project'
+2026-07-31 01:06:02,180 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-07-31 01:06:02,241 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-07-31 01:06:02,248 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-07-31 01:06:02,248 INFO o.a.j.s.SaveService: Loading file: OrangeHRMProject.jmx
+2026-07-31 01:06:02,296 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2026-07-31 01:06:02,307 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2026-07-31 01:06:02,367 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-07-31 01:06:02,367 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-07-31 01:06:02,367 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-07-31 01:06:02,367 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-07-31 01:06:02,367 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-07-31 01:06:02,367 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-07-31 01:06:02,716 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2026-07-31 01:06:02,716 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\proxyserver.jks
+2026-07-31 01:06:02,762 INFO o.a.j.JMeter: Creating summariser <summary>
+2026-07-31 01:06:02,772 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2026-07-31 01:06:02,772 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: reports/SpikeTesting/results.jtl
+2026-07-31 01:06:02,772 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\reportgenerator.properties
+2026-07-31 01:06:02,774 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2026-07-31 01:06:02,778 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2026-07-31 01:06:02,812 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-07-31 01:06:02,812 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-07-31 01:06:02,812 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-07-31 01:06:02,826 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2026-07-31 01:06:02,826 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2026-07-31 01:06:02,923 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-casutg-3.1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-31 01:06:02,936 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.12.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-31 01:06:03,150 INFO o.a.j.r.ClassFinder: Will scan jar C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-dummy-0.4.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2026-07-31 01:06:03,242 INFO o.a.j.JMeter: Running test (1785440163242)
+2026-07-31 01:06:03,256 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Open Model  Thread Group
+2026-07-31 01:06:03,267 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group Open Model  Thread Group.
+2026-07-31 01:06:03,267 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-07-31 01:06:03,267 INFO o.a.j.t.o.OpenModelThreadGroup: Starting OpenModelThreadGroup#1 with schedule rate(5/sec) random_arrivals(2 sec)
+pause(1 min)
+2026-07-31 01:06:03,317 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Open Model Thread Group
+2026-07-31 01:06:03,317 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group Open Model Thread Group.
+2026-07-31 01:06:03,317 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-07-31 01:06:03,317 INFO o.a.j.t.o.OpenModelThreadGroup: Starting OpenModelThreadGroup#2 with schedule rate(5/sec) random_arrivals(2 sec)
+pause(1 min)
+2026-07-31 01:06:03,317 INFO o.a.j.t.o.OpenModelThreadGroup: Thread starting init
+2026-07-31 01:06:03,317 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-07-31 01:06:03,317 INFO o.a.j.t.o.OpenModelThreadGroup: Thread starting init
+2026-07-31 01:06:03,326 INFO o.a.j.t.o.PoissonArrivalsRamp: Generating 10 events, beginRate = 5.0 / sec, endRate = 5.0 / sec, duration = 2.0 sec
+2026-07-31 01:06:03,326 INFO o.a.j.t.o.PoissonArrivalsRamp: Generating 10 events, beginRate = 5.0 / sec, endRate = 5.0 / sec, duration = 2.0 sec
+2026-07-31 01:06:03,338 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-07-31 01:06:03,338 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-07-31 01:06:03,339 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-07-31 01:06:03,339 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-07-31 01:06:03,423 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-1
+2026-07-31 01:06:03,423 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-3
+2026-07-31 01:06:03,423 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-1
+2026-07-31 01:06:03,423 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-2
+2026-07-31 01:06:03,425 INFO o.a.j.s.FileServer: Stored: C:/Users/akksh/OneDrive/Desktop/apache-jmeter-5.6.3/bin/Jmeter_Project/AdminData.csv
+2026-07-31 01:06:03,520 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-2
+2026-07-31 01:06:03,557 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-3
+2026-07-31 01:06:03,647 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-4
+2026-07-31 01:06:03,680 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-5
+2026-07-31 01:06:03,694 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-4
+2026-07-31 01:06:03,847 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-6
+2026-07-31 01:06:03,971 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-7
+2026-07-31 01:06:03,975 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-8
+2026-07-31 01:06:04,087 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-9
+2026-07-31 01:06:04,089 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-5
+2026-07-31 01:06:04,191 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-6
+2026-07-31 01:06:04,213 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-7
+2026-07-31 01:06:04,544 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = LAPTOP-IBUOS8EK
+2026-07-31 01:06:04,553 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2026-07-31 01:06:04,646 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-8
+2026-07-31 01:06:04,649 INFO o.a.j.t.o.EvenArrivalsRamp: Generating 0 events, beginRate = 0.0 / sec, endRate = 0.0 / sec, duration = 60.0 sec
+2026-07-31 01:06:04,649 INFO o.a.j.t.o.OpenModelThreadGroup: There will be no more events, so will wait for 60 sec till the end of the schedule
+2026-07-31 01:06:04,651 INFO o.a.j.t.JMeterThread: Thread started: Open Model  Thread Group 1-10
+2026-07-31 01:06:04,675 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2026-07-31 01:06:04,683 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2026-07-31 01:06:04,684 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2026-07-31 01:06:04,786 INFO o.a.j.t.o.EvenArrivalsRamp: Generating 0 events, beginRate = 0.0 / sec, endRate = 0.0 / sec, duration = 60.0 sec
+2026-07-31 01:06:04,785 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-9
+2026-07-31 01:06:04,786 INFO o.a.j.t.o.OpenModelThreadGroup: There will be no more events, so will wait for 60 sec till the end of the schedule
+2026-07-31 01:06:04,787 INFO o.a.j.t.JMeterThread: Thread started: Open Model Thread Group 2-10
+2026-07-31 01:06:05,161 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2026-07-31 01:06:05,167 INFO o.a.j.u.SSLManager: KeyStore created OK
+2026-07-31 01:06:05,167 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2026-07-31 01:07:05,544 INFO o.a.j.t.o.OpenModelThreadGroup: Test schedule finished, however, there are 10 thread(s) still running. Will interrupt the threads. If you want to keep some time for the threads to complete, consider adding pause(10 min) at the end of the schedule.
+2026-07-31 01:07:05,545 INFO o.a.j.t.o.OpenModelThreadGroup: Test schedule finished, however, there are 10 thread(s) still running. Will interrupt the threads. If you want to keep some time for the threads to complete, consider adding pause(10 min) at the end of the schedule.
+2026-07-31 01:07:05,547 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@1341ac71
+2026-07-31 01:07:05,547 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-8
+2026-07-31 01:07:05,547 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@60ea04
+2026-07-31 01:07:05,548 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-4
+2026-07-31 01:07:05,548 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,548 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@7829312a
+2026-07-31 01:07:05,548 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-2
+2026-07-31 01:07:05,548 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@393cdc19
+2026-07-31 01:07:05,548 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,548 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,548 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@33ea6e02
+2026-07-31 01:07:05,548 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-4
+2026-07-31 01:07:05,549 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-3
+2026-07-31 01:07:05,549 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@3fa87c50
+2026-07-31 01:07:05,549 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-4
+2026-07-31 01:07:05,549 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@18ecd6fb
+2026-07-31 01:07:05,549 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-5
+2026-07-31 01:07:05,549 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-2
+2026-07-31 01:07:05,550 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-3
+2026-07-31 01:07:05,550 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,550 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,550 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@4a139caa
+2026-07-31 01:07:05,550 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,550 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,550 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-7
+2026-07-31 01:07:05,550 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@3ef34c24
+2026-07-31 01:07:05,553 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@7c570afe
+2026-07-31 01:07:05,553 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-3
+2026-07-31 01:07:05,551 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-4
+2026-07-31 01:07:05,554 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,554 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-10
+2026-07-31 01:07:05,551 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-5
+2026-07-31 01:07:05,550 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-3
+2026-07-31 01:07:05,554 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-5
+2026-07-31 01:07:05,554 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-7
+2026-07-31 01:07:05,554 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@208e00f5
+2026-07-31 01:07:05,554 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@74f09f49
+2026-07-31 01:07:05,554 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-9
+2026-07-31 01:07:05,556 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@28dfe505
+2026-07-31 01:07:05,554 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-9
+2026-07-31 01:07:05,556 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-7
+2026-07-31 01:07:05,556 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@4ca861b5
+2026-07-31 01:07:05,554 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-2
+2026-07-31 01:07:05,556 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@7d3658bb
+2026-07-31 01:07:05,556 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-6
+2026-07-31 01:07:05,556 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@2a29baa2
+2026-07-31 01:07:05,554 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-10
+2026-07-31 01:07:05,556 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-7
+2026-07-31 01:07:05,556 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@44163c98
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-6
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-5
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-2
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-1
+2026-07-31 01:07:05,556 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,556 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-1
+2026-07-31 01:07:05,558 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@34e19f1
+2026-07-31 01:07:05,558 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Stopping: Open Model  Thread Group 1-8
+2026-07-31 01:07:05,558 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-9
+2026-07-31 01:07:05,558 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-9
+2026-07-31 01:07:05,558 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@7be8c586
+2026-07-31 01:07:05,559 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-6
+2026-07-31 01:07:05,559 INFO o.a.j.t.o.OpenModelThreadGroup: Terminating thread org.apache.jmeter.threads.JMeterThread@52f6a978
+2026-07-31 01:07:05,559 INFO o.a.j.t.o.OpenModelThreadGroup: Thread starting done
+2026-07-31 01:07:05,559 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,559 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,559 INFO o.a.j.t.JMeterThread: Stopping: Open Model Thread Group 2-10
+2026-07-31 01:07:05,559 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-1
+2026-07-31 01:07:05,559 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-1
+2026-07-31 01:07:05,560 INFO o.a.j.t.o.OpenModelThreadGroup: Thread starting done
+2026-07-31 01:07:05,560 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-6
+2026-07-31 01:07:05,560 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2026-07-31 01:07:05,560 INFO o.a.j.t.JMeterThread: Thread finished: Open Model  Thread Group 1-8
+2026-07-31 01:07:05,560 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-10
+2026-07-31 01:07:05,566 INFO o.a.j.r.Summariser: summary +      1 in 00:01:02 =    0.0/s Avg:     0 Min:     0 Max:     0 Err:     1 (100.00%) Active: 20 Started: 20 Finished: 0
+2026-07-31 01:07:05,570 INFO o.a.j.t.JMeterThread: Thread finished: Open Model Thread Group 2-8
+2026-07-31 01:07:05,573 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-07-31 01:07:05,573 INFO o.a.j.s.FileServer: Close: C:/Users/akksh/OneDrive/Desktop/apache-jmeter-5.6.3/bin/Jmeter_Project/AdminData.csv
+2026-07-31 01:07:05,575 INFO o.a.j.r.Summariser: summary +     19 in 00:00:00 =  730.8/s Avg:     0 Min:     0 Max:     0 Err:    19 (100.00%) Active: 0 Started: 20 Finished: 20
+2026-07-31 01:07:05,575 INFO o.a.j.r.Summariser: summary =     20 in 00:01:02 =    0.3/s Avg:     0 Min:     0 Max:     0 Err:    20 (100.00%)
+2026-07-31 01:07:05,575 INFO o.a.j.JMeter: Generating Dashboard
+2026-07-31 01:07:05,575 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2026-07-31 01:07:05,598 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2026-07-31 01:07:05,697 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2026-07-31 01:07:05,697 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2026-07-31 01:07:05,713 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2026-07-31 01:07:05,713 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2026-07-31 01:07:05,713 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2026-07-31 01:07:05,713 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2026-07-31 01:07:05,713 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2026-07-31 01:07:05,713 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2026-07-31 01:07:05,736 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2026-07-31 01:07:05,736 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2026-07-31 01:07:05,736 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2026-07-31 01:07:05,736 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 280 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 900 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 180 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 60 samples
+2026-07-31 01:07:05,745 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 60 samples produced in 111ms on channel 0
+2026-07-31 01:07:05,745 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2026-07-31 01:07:05,864 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2026-07-31 01:07:05,864 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2026-07-31 01:07:05,870 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2026-07-31 01:07:05,872 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2026-07-31 01:07:05,872 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting\statistics.json
+2026-07-31 01:07:05,935 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2026-07-31 01:07:05,935 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting
+2026-07-31 01:07:06,079 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting, creating folder structure
+2026-07-31 01:07:06,079 INFO o.a.j.r.d.TemplateVisitor: Copying folder from 'C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\report-template' to 'C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting', got message: C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting, found non empty folder with following content [C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting\results.jtl, C:\Users\akksh\OneDrive\Desktop\apache-jmeter-5.6.3\bin\Jmeter_Project\Reports\SpikeTesting\statistics.json], will be ignored
+2026-07-31 01:07:06,909 INFO o.a.j.JMeter: Dashboard generated
